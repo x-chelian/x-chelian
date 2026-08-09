@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Wen
 
-<!--
-**x-chelian/x-chelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Believe one builder + AI should out-ship a team.**
 
-Here are some ideas to get you started:
+By day I'm an engineering lead / solution architect, 20+ engineers across cloud, SaaS, e-commerce, mobile; By night I'm a team of one: I design, code, ship, and market AI-native products solo. I have been shipped many products, commercial and personal. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's a joy to turn ideas into reality, and AI into humanity. 
+
+X **[@x_chelian](https://x.com/x_chelian)**
+
+小红书 **[@Wen](https://xhslink.cn/m/7yUPBfE3hGl)**
+
+---
+## Building
+
+
+
+---
+## Built
+
+**[Position Radar](https://positionradar.io)**
+
+Turns each US stock you hold into one plain-language buy / hold / sell read, and grades every call against real closing prices on a public track record. Full-stack on a single Cloudflare Worker.
+
+**[Lumorae](https://lumorae.app)**
+
+An AI journal that turns how your day felt into something worth looking back on. Calm by design. A running stream of smaller experiments — trading bots, data helpers, and one game that's ugly on purpose.
